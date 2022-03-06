@@ -1,0 +1,28 @@
+{
+  "name": "@starcube/genie",
+  "version": "0.0.1",
+  "description": "API module for Aladin bookstore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starcubehq/genie.git"
+  },
+  "keywords": [
+    "book",
+    "aladin",
+    "api"
+  ],
+  "author": "starcube",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starcubehq/genie/issues"
+  },
+  "homepage": "https://github.com/starcubehq/genie#readme",
+  "dependencies": {
+    "isbn3": "^1.1.20",
+    "request": "^2.88.2"
+  }
+}
